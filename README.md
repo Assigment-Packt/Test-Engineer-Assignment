@@ -8,3 +8,6 @@ JavaScript to automate tests using Selenium WebDriver
 
 4c Instructions and commands to run your code 
 I have used Visual studio code with Javascript with nodejs and Selenium webdriver for performing the automated tests.
+
+4d Any other information you would like us to know, the more documentation the better 
+ 
